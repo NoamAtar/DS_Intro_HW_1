@@ -26,5 +26,5 @@ def convert(hours, minutes=0):
     return (x)
 
 
-print(convert(1, 3))
-print(convert(1.75))
+print(convert(2, 7.5))
+print(convert(1.25))
